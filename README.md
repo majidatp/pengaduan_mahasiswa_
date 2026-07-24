@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Identitas Mahasiswa
 **Nama:** Abdul Majid  
-**NIM:** 2101070211  
+**NIM:** 210170211  
 
 ---
 
