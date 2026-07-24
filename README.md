@@ -246,4 +246,4 @@ Kemudian masuk menggunakan akun mahasiswa.
 
 # 📌 Catatan
 
-Aplikasi ini dibuat sebagai sistem informasi pengaduan mahasiswa yang bertujuan untuk meningkatka
+Aplikasi ini dibuat sebagai sistem informasi pengaduan mahasiswa yang bertujuan untuk meningkatkan efektivitas proses pelaporan, verifikasi, dan penyelesaian pengaduan secara digital.
